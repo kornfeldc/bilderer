@@ -1,0 +1,11 @@
+{
+  "name": "bilderer",
+  "description": "",
+  "main": "index.php",
+  "authors": [
+    "kornfeldc <kornfeld.c@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true
+}
